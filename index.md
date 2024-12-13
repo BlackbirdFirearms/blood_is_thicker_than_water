@@ -2,6 +2,8 @@
 layout: default
 ---
 
+###### 编者 Inominata 与 Hamster4，向您致意。
+
 查看什么？
 
 ### 档案集：血浓于水
