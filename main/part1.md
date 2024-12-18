@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[返回](./index.html)
+[返回](../)
 
 ## 第一部分 甜钢
 
