@@ -8,8 +8,8 @@ layout: default
 
 ### 档案集：血浓于水
 
-- [第一部分 甜钢](./part1.html)
-- [第二部分 白井](./part2.html)
+- [第一部分 甜钢](./main/part1.html)
+- [第二部分 白井](./main/part2.html)
 - 第三部分 孤光 - 文件准备中
 
 ### 附录
