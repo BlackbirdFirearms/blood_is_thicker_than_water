@@ -25,6 +25,7 @@ layout: default
   - [哑弹](./appendix/a4.html)
 - 附录B：舞台阴影之中
   - [冷火](./appendix/b1.html)
+  - [故友](./appendix/b2.html)
 
 ### 其他文件
 
