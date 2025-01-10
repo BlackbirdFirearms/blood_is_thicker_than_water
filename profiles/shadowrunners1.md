@@ -35,6 +35,9 @@ _档案状态：调查中_
 <dd>4</dd>
 <dt>当前状态</dt>
 <dd>活跃</dd>
+</dl>
+
+<dl>
 <dt>肉体素质评测</dt>
 <dd>体质-2  敏捷-3  反应-3  力量-1</dd>
 <dt>精神素质评测</dt>
@@ -43,6 +46,7 @@ _档案状态：调查中_
 <dd>觉醒者（魔法-3）</dd>
 <dt>改造与殖装</dt>
 <dd>无</dd>
+</dl>
 
 <br />
 
@@ -50,15 +54,16 @@ _档案状态：调查中_
 
 <br />
 
-<dt>辨识性特质</dt>
-<dd></dd>
+**辨识性特质**
+
+<dl>
 <dt>觉醒者-法师（宇宙学派）</dt>
 <dd>能够使用各类法术的施法者。从属于主张魔法来源于宇宙，重视逻辑与探索的魔法流派。</dd>
 <dt>功能性尾巴</dt>
 <dd>长有覆鳞的长尾，末端有尖锐的钉刺。</dd>
 <dt>荣誉守则-希波克拉底誓言</dt>
 <dd>已被时代抛弃的古老誓言。如有能力必须提供医疗援助。不得使用危害性药物。必须保持病人的信心。</dd>
-</d1>
+</dl>
 
 <br />
 
@@ -66,7 +71,7 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/Steinar.jpg" width="500" />
 
-<d2>
+<dl>
 <dt>姓名/代称</dt>
 <dd>斯泰纳尔·布雷德斯 【木帆船】 Steinar Blades [Wood Sailboat]</dd>
 <dt>狂奔经验</dt>
@@ -83,6 +88,9 @@ _档案状态：调查中_
 <dd>4</dd>
 <dt>当前状态</dt>
 <dd>活跃</dd>
+</dl>
+
+<dl>
 <dt>肉体素质评测</dt>
 <dd>体质-5  敏捷-5  反应-5  力量-6</dd>
 <dt>精神素质评测</dt>
@@ -91,6 +99,7 @@ _档案状态：调查中_
 <dd>无</dd>
 <dt>改造与殖装</dt>
 <dd>机械义肢-整腿（配件：赛博武器匣）；机械义肢-前臂（配件：内置式稳定装置；植入武装-轻型手枪/钢刺爪/手刃）</dd>
+</dl>
 
 <br />
 
@@ -98,27 +107,26 @@ _档案状态：调查中_
 
 <br />
 
-<dt>辨识性特质</dt>
-<dd>
+**辨识性特质**
+
+<dl>
 <dt>天资（利刃）</dt>
 <dd>使用冷兵器的天赋。包括传统的刀具，以及在义肢中植入的可伸缩爪刃。</dd>
 <dt>双巧手</dt>
 <dd>能够以同样的灵活与熟练操控双手。</dd>
 <dt>高度耐痛</dt>
 <dd>身负重伤时，仍能忍耐痛觉继续行动。</dd>
-</d2>
+</dl>
 
 <br />
 
 <br />
 
-<img src="/docs/assets/images/Antinoa.jpg" width="500" />
+<img src="../docs/assets/images/Antinoa.jpg" width="500" />
 
-<d5>
+<dl>
 <dt>姓名/代称</dt>
-<dd>安缇诺雅 【音爆】
-  
-Antinoa [Sonic Boom]</dd>
+<dd>安缇诺雅 【音爆】 Antinoa [Sonic Boom]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
@@ -133,9 +141,9 @@ Antinoa [Sonic Boom]</dd>
 <dd>4</dd>
 <dt>当前状态</dt>
 <dd>活跃</dd>
+</dl>
 
-<br />
-
+<dl>
 <dt>肉体素质评测</dt>
 <dd>体质-3  敏捷-5  反应-5  力量-3</dd>
 <dt>精神素质评测</dt>
@@ -144,7 +152,7 @@ Antinoa [Sonic Boom]</dd>
 <dd>无</dd>
 <dt>改造与殖装</dt>
 <dd>中控器；反应增强器</dd>
-</d5>
+</dl>
 
 <br />
 
@@ -154,26 +162,24 @@ Antinoa [Sonic Boom]</dd>
 
 **辨识性特质**
 
-<d6>
+<dl>
 <dt>低光视觉</dt>
 <dd>身为精灵的种族优势。可以在昏暗的光线下如常视物。</dd>
 <dt>应急机师</dt>
 <dd>对于机械构成及运行原理的高度熟悉。能够在紧要关头制造应急设备，或对受损的设备进行临时修补。</dd>
 <dt>高度耐痛</dt>
 <dd>身负重伤时，仍能忍耐痛觉继续行动。</dd>
-</d6>
+</dl>
 
 <br />
 
 <br />
 
-<img src="/docs/assets/images/Bertram.jpg" width="500" />
+<img src="../docs/assets/images/Bertram.jpg" width="500" />
 
-<d7>
+<dl>
 <dt>姓名/代称</dt>
-<dd>伯特仑·梅钦 【寒鸦】
-  
-Bertram Machin [Jackdaw]</dd>
+<dd>伯特仑·梅钦 【寒鸦】 Bertram Machin [Jackdaw]</dd>
 <dt>狂奔经验</dt>
 <dd>丰富</dd>
 <dt>出生地</dt>
@@ -188,9 +194,9 @@ Bertram Machin [Jackdaw]</dd>
 <dd>3</dd>
 <dt>当前状态</dt>
 <dd>失踪</dd>
+</dl>
 
-<br />
-
+<dl>
 <dt>肉体素质评测</dt>
 <dd>体质-1  敏捷-3  反应-2  力量-2</dd>
 <dt>精神素质评测</dt>
@@ -199,7 +205,7 @@ Bertram Machin [Jackdaw]</dd>
 <dd>超链者（共鸣-3）</dd>
 <dt>改造与殖装</dt>
 <dd>植入式通讯链与数据接口</dd>
-</d7>
+</dl>
 
 <br />
 
@@ -209,26 +215,24 @@ Bertram Machin [Jackdaw]</dd>
 
 **辨识性特质**
 
-<d8>
+<dl>
 <dt>天才启发者</dt>
 <dd>与计算机及矩阵的亲和。擅于利用矩阵进行复杂的数据处理。</dd>
 <dt>学院教育</dt>
 <dd>得益于曾接受的教育，对学术知识的熟悉与掌握。</dd>
 <dt>龙血接触者</dt>
 <dd>曾接触过名为“龙血”的炼金药剂并幸存。体质被极大削弱的同时，被强行唤醒了超链者的能力。</dd>
-</d8>
+</dl>
 
 <br />
 
 <br />
 
-<img src="/docs/assets/images/Celka.png" width="500" />
+<img src="../docs/assets/images/Celka.png" width="500" />
 
-<d9>
+<dl>
 <dt>姓名/代称</dt>
-<dd>夏尔卡·托尔卡 【红宝石松鼠】
-  
-Celka Tolka [Ruby Squirrel]</dd>
+<dd>夏尔卡·托尔卡 【红宝石松鼠】 Celka Tolka [Ruby Squirrel]</dd>
 <dt>狂奔经验</dt>
 <dd>丰富</dd>
 <dt>出生地</dt>
@@ -243,9 +247,9 @@ Celka Tolka [Ruby Squirrel]</dd>
 <dd>3</dd>
 <dt>当前状态</dt>
 <dd>活跃</dd>
+</dl>
 
-<br />
-
+<dl>
 <dt>肉体素质评测</dt>
 <dd>体质-2  敏捷-4  反应-2  力量-1</dd>
 <dt>精神素质评测</dt>
@@ -254,7 +258,7 @@ Celka Tolka [Ruby Squirrel]</dd>
 <dd>无</dd>
 <dt>改造与殖装</dt>
 <dd>植入式通讯链与数据接口</dd>
-</d9>
+</dl>
 
 <br />
 
@@ -264,26 +268,24 @@ Celka Tolka [Ruby Squirrel]</dd>
 
 **辨识性特质**
 
-<d10>
+<dl>
 <dt>幼态持续</dt>
 <dd>无论其实际年龄为何，外观看上去都像人类或精灵的小孩子。每个侏儒都饱受其困扰的问题。</dd>
 <dt>法术绝缘</dt>
 <dd>魔法难以对其起效。一个引起许多人兴趣的种族特性。</dd>
 <dt>第一印象</dt>
 <dd>言谈举止会在初识时便给人留下良好的印象。身为出面人必不可少的天赋。</dd>
-</d10>
+</dl>
 
 <br />
 
 <br />
 
-<img src="/docs/assets/images/Adriana.jpg" width="500" />
+<img src="../docs/assets/images/Adriana.jpg" width="500" />
 
-<d9>
+<dl>
 <dt>姓名/代称</dt>
-<dd>阿德瑞娜·密斯托 【雨云】
-  
-Adriana Myste [Raincloud]</dd>
+<dd>阿德瑞娜·密斯托 【雨云】 Adriana Myste [Raincloud]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
@@ -298,9 +300,9 @@ Adriana Myste [Raincloud]</dd>
 <dd>4</dd>
 <dt>当前状态</dt>
 <dd>活跃</dd>
+</dl>
 
-<br />
-
+<dl>
 <dt>肉体素质评测</dt>
 <dd>体质-5  敏捷-3  反应-4  力量-4</dd>
 <dt>精神素质评测</dt>
@@ -309,7 +311,7 @@ Adriana Myste [Raincloud]</dd>
 <dd>觉醒者（魔法-6）</dd>
 <dt>改造与殖装</dt>
 <dd>无</dd>
-</d9>
+</dl>
 
 <br />
 
@@ -319,7 +321,7 @@ Adriana Myste [Raincloud]</dd>
 
 **辨识性特质**
 
-<d12>
+<dl>
 <dt>低光视觉</dt>
 <dd>身为精灵的种族优势。可以在昏暗的光线下如常视物。</dd>
 <dt>觉醒者-神秘修士（阿兹特克流派）</dt>
@@ -328,7 +330,7 @@ Adriana Myste [Raincloud]</dd>
 <dd>印第安文化中掌控天气的巨鸟。主导雷霆般的愤怒与以牙还牙的精魂导师。</dd>
 <dt>至爱亲朋</dt>
 <dd>在维持生活所需之余，还照顾着几个收养的孩子。</dd>
-</d12>
+</dl>
 
 <br />
 
