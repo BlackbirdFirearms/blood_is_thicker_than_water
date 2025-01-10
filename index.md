@@ -31,8 +31,11 @@ layout: default
 
 ### 其他文件
 
-- 相关资料
+- 图文档案
   - [狂奔者档案（1）](./profiles/shadowrunners1.html)
   - 狂奔者档案（2） - 文件准备中
   - 相关人员档案 - 文件准备中
-  - 影像集 - 文件准备中
+-影像集
+  - [速写](./album/sketches.html)
+  - [照片墙](./album/photographs.html)
+  - [录影](./album/videoshorts.html)
