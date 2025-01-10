@@ -37,9 +37,6 @@ Salvia Hotgo [Red Cross]</dd>
 <dd>4</dd>
 <dt>当前状态</dt>
 <dd>活跃</dd>
-
-<br />
-
 <dt>肉体素质评测</dt>
 <dd>体质-2  敏捷-3  反应-3  力量-1</dd>
 <dt>精神素质评测</dt>
