@@ -16,7 +16,7 @@ _档案状态：调查中_
 
 <br />
 
-[<img src="/docs/assets/images/Salvia.jpg" width="500" />](/docs/assets/images/Salvia.jpg)
+<img src="/docs/assets/images/Salvia.jpg" width="500" />
 
 <dl>
 <dt>姓名/代称</dt>
@@ -46,9 +46,6 @@ Salvia Hotgo [Red Cross]</dd>
 <dd>意志-3  逻辑-4  直觉-4  魅力-2</dd>
 <dt>觉醒/显现</dt>
 <dd>觉醒者（魔法-3）</dd>
-
-<br />
-
 <dt>改造与殖装</dt>
 <dd>无</dd>
 </d1>
@@ -60,6 +57,7 @@ Salvia Hotgo [Red Cross]</dd>
 <br />
 
 _**辨识性特质**_
+
 <d2>
 <dt>觉醒者-法师（宇宙学派）</dt>
 <dd>能够使用各类法术的施法者。从属于主张魔法来源于宇宙，重视逻辑与探索的魔法流派。</dd>
@@ -73,7 +71,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="/docs/assets/images/Steinar.jpg" width="500" />](/docs/assets/images/Steinar.jpg)
+<img src="/docs/assets/images/Steinar.jpg" width="500" />
 
 <d3>
 <dt>姓名/代称</dt>
@@ -103,13 +101,8 @@ Steinar Blades [Wood Sailboat]</dd>
 <dd>意志-2  逻辑-2  直觉-4  魅力-3</dd>
 <dt>觉醒/显现</dt>
 <dd>无</dd>
-
-<br />
-
 <dt>改造与殖装</dt>
-<dd>机械义肢-整腿（配件：赛博武器匣）
-
-机械义肢-前臂（配件：内置式稳定装置；植入武装-轻型手枪/钢刺爪/手刃）</dd>
+<dd>机械义肢-整腿（配件：赛博武器匣）；机械义肢-前臂（配件：内置式稳定装置；植入武装-轻型手枪/钢刺爪/手刃）</dd>
 </d3>
 
 <br />
@@ -119,6 +112,7 @@ Steinar Blades [Wood Sailboat]</dd>
 <br />
 
 _**辨识性特质**_
+
 <d4>
 <dt>天资（利刃）</dt>
 <dd>使用冷兵器的天赋。包括传统的刀具，以及在义肢中植入的可伸缩爪刃。</dd>
@@ -132,7 +126,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="/docs/assets/images/Antinoa.jpg" width="500" />](/docs/assets/images/Antinoa.jpg)
+<img src="/docs/assets/images/Antinoa.jpg" width="500" />
 
 <d5>
 <dt>姓名/代称</dt>
@@ -162,13 +156,8 @@ Antinoa [Sonic Boom]</dd>
 <dd>意志-3  逻辑-5  直觉-4  魅力-3</dd>
 <dt>觉醒/显现</dt>
 <dd>无</dd>
-
-<br />
-
 <dt>改造与殖装</dt>
-<dd>中控器
-
-反应增强器</dd>
+<dd>中控器；反应增强器</dd>
 </d5>
 
 <br />
@@ -178,6 +167,7 @@ Antinoa [Sonic Boom]</dd>
 <br />
 
 _**辨识性特质**_
+
 <d6>
 <dt>低光视觉</dt>
 <dd>身为精灵的种族优势。可以在昏暗的光线下如常视物。</dd>
@@ -191,7 +181,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="/docs/assets/images/Bertram.jpg" width="500" />](/docs/assets/images/Bertram.jpg)
+<img src="/docs/assets/images/Bertram.jpg" width="500" />
 
 <d7>
 <dt>姓名/代称</dt>
@@ -221,9 +211,6 @@ Bertram Machin [Jackdaw]</dd>
 <dd>意志-4  逻辑-6  直觉-4  魅力-3</dd>
 <dt>觉醒/显现</dt>
 <dd>超链者（共鸣-3）</dd>
-
-<br />
-
 <dt>改造与殖装</dt>
 <dd>植入式通讯链与数据接口</dd>
 </d7>
@@ -235,6 +222,7 @@ Bertram Machin [Jackdaw]</dd>
 <br />
 
 _**辨识性特质**_
+
 <d8>
 <dt>天才启发者</dt>
 <dd>与计算机及矩阵的亲和。擅于利用矩阵进行复杂的数据处理。</dd>
@@ -248,7 +236,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="/docs/assets/images/Celka.png" width="500" />](/docs/assets/images/Celka.png)
+<img src="/docs/assets/images/Celka.png" width="500" />
 
 <d9>
 <dt>姓名/代称</dt>
@@ -278,9 +266,6 @@ Celka Tolka [Ruby Squirrel]</dd>
 <dd>意志-3  逻辑-3  直觉-4  魅力-6</dd>
 <dt>觉醒/显现</dt>
 <dd>无</dd>
-
-<br />
-
 <dt>改造与殖装</dt>
 <dd>植入式通讯链与数据接口</dd>
 </d9>
@@ -292,6 +277,7 @@ Celka Tolka [Ruby Squirrel]</dd>
 <br />
 
 _**辨识性特质**_
+
 <d10>
 <dt>幼态持续</dt>
 <dd>无论其实际年龄为何，外观看上去都像人类或精灵的小孩子。每个侏儒都饱受其困扰的问题。</dd>
@@ -301,7 +287,11 @@ _**辨识性特质**_
 <dd>言谈举止会在初识时便给人留下良好的印象。身为出面人必不可少的天赋。</dd>
 </d10>
 
-[<img src="/docs/assets/images/Adriana.jpg" width="500" />](/docs/assets/images/Adriana.jpg)
+<br />
+
+<br />
+
+<img src="/docs/assets/images/Adriana.jpg" width="500" />
 
 <d9>
 <dt>姓名/代称</dt>
@@ -331,9 +321,6 @@ Adriana Myste [Raincloud]</dd>
 <dd>意志-5  逻辑-2  直觉-4  魅力-4</dd>
 <dt>觉醒/显现</dt>
 <dd>觉醒者（魔法-6）</dd>
-
-<br />
-
 <dt>改造与殖装</dt>
 <dd>无</dd>
 </d9>
@@ -345,6 +332,7 @@ Adriana Myste [Raincloud]</dd>
 <br />
 
 _**辨识性特质**_
+
 <d12>
 <dt>低光视觉</dt>
 <dd>身为精灵的种族优势。可以在昏暗的光线下如常视物。</dd>
