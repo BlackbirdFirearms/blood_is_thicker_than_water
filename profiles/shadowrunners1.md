@@ -16,7 +16,7 @@ _档案状态：调查中_
 
 <br />
 
-[<img src="./docs/assets/images/Salvia.jpg" width="500" />](/docs/assets/images/Salvia.jpg)
+[<img src="/docs/assets/images/Salvia.jpg" width="500" />](/docs/assets/images/Salvia.jpg)
 
 <dl>
 <dt>姓名/代称</dt>
@@ -73,7 +73,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="./docs/assets/images/Steinar.jpg" width="500" />](/docs/assets/images/Steinar.jpg)
+[<img src="/docs/assets/images/Steinar.jpg" width="500" />](/docs/assets/images/Steinar.jpg)
 
 <d3>
 <dt>姓名/代称</dt>
@@ -132,7 +132,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="./docs/assets/images/Antinoa.jpg" width="500" />](/docs/assets/images/Antinoa.jpg)
+[<img src="/docs/assets/images/Antinoa.jpg" width="500" />](/docs/assets/images/Antinoa.jpg)
 
 <d5>
 <dt>姓名/代称</dt>
@@ -191,7 +191,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="./docs/assets/images/Bertram.jpg" width="500" />](/docs/assets/images/Bertram.jpg)
+[<img src="/docs/assets/images/Bertram.jpg" width="500" />](/docs/assets/images/Bertram.jpg)
 
 <d7>
 <dt>姓名/代称</dt>
@@ -248,7 +248,7 @@ _**辨识性特质**_
 
 <br />
 
-[<img src="./docs/assets/images/Celka.png" width="500" />](/docs/assets/images/Celka.png)
+[<img src="/docs/assets/images/Celka.png" width="500" />](/docs/assets/images/Celka.png)
 
 <d9>
 <dt>姓名/代称</dt>
@@ -301,7 +301,7 @@ _**辨识性特质**_
 <dd>言谈举止会在初识时便给人留下良好的印象。身为出面人必不可少的天赋。</dd>
 </d10>
 
-[<img src="./docs/assets/images/Adriana.jpg" width="500" />](/docs/assets/images/Adriana.jpg)
+[<img src="/docs/assets/images/Adriana.jpg" width="500" />](/docs/assets/images/Adriana.jpg)
 
 <d9>
 <dt>姓名/代称</dt>
