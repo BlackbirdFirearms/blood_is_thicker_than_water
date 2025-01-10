@@ -20,9 +20,7 @@ _档案状态：调查中_
 
 <dl>
 <dt>姓名/代称</dt>
-<dd>希尔维娅·浩特革 【红十字】
-  
-Salvia Hotgo [Red Cross]</dd>
+<dd>希尔维娅·浩特革 【红十字】 Salvia Hotgo [Red Cross]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
