@@ -20,7 +20,7 @@ _Photography by Inominata_
 
 <br />
 
-<img src="../docs/assets/images/of_murder.jpg" width="750" />
+<img src="../docs/assets/images/of_murder.png" width="750" />
 
 <br />
 
