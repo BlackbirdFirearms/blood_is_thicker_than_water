@@ -16,7 +16,7 @@ _档案状态：调查中_
 
 <br />
 
-![Salvia_profile](/docs/assets/images/Salvia.jpg)
+<img src="/docs/assets/images/Salvia.jpg" width="500" />
 
 <dl>
 <dt>姓名/代称</dt>
