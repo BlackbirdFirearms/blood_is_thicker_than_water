@@ -58,19 +58,17 @@ _档案状态：调查中_
 <dd>长有覆鳞的长尾，末端有尖锐的钉刺。</dd>
 <dt>荣誉守则-希波克拉底誓言</dt>
 <dd>已被时代抛弃的古老誓言。如有能力必须提供医疗援助。不得使用危害性药物。必须保持病人的信心。</dd>
-</d2>
+</d1>
 
 <br />
 
 <br />
 
-<img src="/docs/assets/images/Steinar.jpg" width="500" />
+<img src="../docs/assets/images/Steinar.jpg" width="500" />
 
-<d3>
+<d2>
 <dt>姓名/代称</dt>
-<dd>斯泰纳尔·布雷德斯 【木帆船】
-  
-Steinar Blades [Wood Sailboat]</dd>
+<dd>斯泰纳尔·布雷德斯 【木帆船】 Steinar Blades [Wood Sailboat]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
@@ -85,9 +83,6 @@ Steinar Blades [Wood Sailboat]</dd>
 <dd>4</dd>
 <dt>当前状态</dt>
 <dd>活跃</dd>
-
-<br />
-
 <dt>肉体素质评测</dt>
 <dd>体质-5  敏捷-5  反应-5  力量-6</dd>
 <dt>精神素质评测</dt>
@@ -96,7 +91,6 @@ Steinar Blades [Wood Sailboat]</dd>
 <dd>无</dd>
 <dt>改造与殖装</dt>
 <dd>机械义肢-整腿（配件：赛博武器匣）；机械义肢-前臂（配件：内置式稳定装置；植入武装-轻型手枪/钢刺爪/手刃）</dd>
-</d3>
 
 <br />
 
@@ -104,16 +98,15 @@ Steinar Blades [Wood Sailboat]</dd>
 
 <br />
 
-**辨识性特质**
-
-<d4>
+<dt>辨识性特质</dt>
+<dd>
 <dt>天资（利刃）</dt>
 <dd>使用冷兵器的天赋。包括传统的刀具，以及在义肢中植入的可伸缩爪刃。</dd>
 <dt>双巧手</dt>
 <dd>能够以同样的灵活与熟练操控双手。</dd>
 <dt>高度耐痛</dt>
 <dd>身负重伤时，仍能忍耐痛觉继续行动。</dd>
-</d4>
+</d2>
 
 <br />
 
