@@ -56,7 +56,7 @@ Salvia Hotgo [Red Cross]</dd>
 
 <br />
 
-_**辨识性特质**_
+**辨识性特质**
 
 <d2>
 <dt>觉醒者-法师（宇宙学派）</dt>
@@ -111,7 +111,7 @@ Steinar Blades [Wood Sailboat]</dd>
 
 <br />
 
-_**辨识性特质**_
+**辨识性特质**
 
 <d4>
 <dt>天资（利刃）</dt>
@@ -166,7 +166,7 @@ Antinoa [Sonic Boom]</dd>
 
 <br />
 
-_**辨识性特质**_
+**辨识性特质**
 
 <d6>
 <dt>低光视觉</dt>
@@ -221,7 +221,7 @@ Bertram Machin [Jackdaw]</dd>
 
 <br />
 
-_**辨识性特质**_
+**辨识性特质**
 
 <d8>
 <dt>天才启发者</dt>
@@ -276,7 +276,7 @@ Celka Tolka [Ruby Squirrel]</dd>
 
 <br />
 
-_**辨识性特质**_
+**辨识性特质**
 
 <d10>
 <dt>幼态持续</dt>
@@ -331,7 +331,7 @@ Adriana Myste [Raincloud]</dd>
 
 <br />
 
-_**辨识性特质**_
+**辨识性特质**
 
 <d12>
 <dt>低光视觉</dt>
