@@ -36,6 +36,6 @@ layout: default
   - 狂奔者档案（2） - 文件准备中
   - 相关人员档案 - 文件准备中
 - 影像集
-  - [速写](./album/sketches.html)
+  - [速写本](./album/sketches.html)
   - [照片墙](./album/photographs.html)
-  - [录影](./album/videoshorts.html)
+  - [录影集](./album/videoshorts.html)
