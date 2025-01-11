@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## 照片墙
-
 _Photography by Inominata_
 
 [返回](../)
