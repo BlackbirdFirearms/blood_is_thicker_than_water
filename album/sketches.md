@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## 速写
-
 _Sketches by Inominata_
 
 [返回](../)
