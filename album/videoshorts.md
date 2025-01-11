@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## 录影
-
 _Photography by Inominata_
 
 [返回](../)
