@@ -58,6 +58,8 @@ _Photography by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/remember_when_we_used_to_be_two.jpg" width="750" />
+
 * * *
 
 [返回](../)
