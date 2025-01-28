@@ -60,6 +60,12 @@ _Photography by Inominata_
 
 <img src="../docs/assets/images/remember_when_we_used_to_be_two.jpg" width="750" />
 
+<br />
+
+<img src="../docs/assets/images/the_first_time_I_killed_you.jpg" width="750" />
+
+<br />
+
 * * *
 
 [返回](../)
