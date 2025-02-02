@@ -18,6 +18,10 @@ _Photography by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/inner_troubles.jpg" width="750" />
+
+<br />
+
 <img src="../docs/assets/images/what's_inside_antinoa's_bag.png" width="750" />
 
 <br />
@@ -55,6 +59,10 @@ _Photography by Inominata_
 <br />
 
 <img src="../docs/assets/images/bad_end_3-2.png" width="750" />
+
+<br />
+
+<img src="../docs/assets/images/adriana(as_maid).jpg" width="750" />
 
 <br />
 
