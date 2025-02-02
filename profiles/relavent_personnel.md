@@ -103,7 +103,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/supportingcharacters1.png" width="500" />
+<img src="../docs/assets/images/lilian.png" width="500" />
 
 **莉莉安 Lilian**
 
