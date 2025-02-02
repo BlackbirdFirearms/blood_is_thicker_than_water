@@ -10,10 +10,6 @@ _Sketches by Inominata_
 
 <br />
 
-<img src="../docs/assets/images/inner_troubles.jpg" width="750" />
-
-<br />
-
 <img src="../docs/assets/images/supportingcharacters1.png" width="750" />
 
 <br />
