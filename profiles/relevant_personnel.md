@@ -18,7 +18,9 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/contacts1.png" width="500" />
 
-**博恩 【金眼】 Bohen [Gold-Eye]**
+**博恩 Bohen**
+
+**【金眼 Gold-Eye】**
 
 <dl>
 <dt>性别</dt>
@@ -35,7 +37,9 @@ _档案状态：调查中_
 
 <br />
 
-**罗赫利兹 【养蜂人】 Rochritz [beekeeper]**
+**罗赫利兹 Rochritz**
+
+**【养蜂人 beekeeper】**
 
 <dl>
 <dt>性别</dt>
@@ -52,7 +56,7 @@ _档案状态：调查中_
 
 <br />
 
-**【海蛇】 [SeaSerpent]**
+**【海蛇 SeaSerpent】**
 
 <dl>
 <dt>性别</dt>

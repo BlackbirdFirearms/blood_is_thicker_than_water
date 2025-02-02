@@ -18,9 +18,11 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/Salvia.jpg" width="500" />
 
+**希尔维娅·浩特革 Salvia Hotgo**
+
+**【红十字 Red Cross】**
+
 <dl>
-<dt>姓名/代称</dt>
-<dd>希尔维娅·浩特革 【红十字】 Salvia Hotgo [Red Cross]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
@@ -65,9 +67,11 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/Steinar.jpg" width="500" />
 
+**斯泰纳尔·布雷德斯 Steinar Blades**
+
+**【木帆船 Wood Sailboat】**
+
 <dl>
-<dt>姓名/代称</dt>
-<dd>斯泰纳尔·布雷德斯 【木帆船】 Steinar Blades [Wood Sailboat]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
@@ -112,9 +116,11 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/Antinoa.jpg" width="500" />
 
+**安缇诺雅 Antinoa**
+
+**【音爆 Sonic Boom】**
+
 <dl>
-<dt>姓名/代称</dt>
-<dd>安缇诺雅 【音爆】 Antinoa [Sonic Boom]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
@@ -159,9 +165,11 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/Bertram.jpg" width="500" />
 
+**伯特仑·梅钦 Bertram Machin**
+
+**【寒鸦 Jackdaw】**
+
 <dl>
-<dt>姓名/代称</dt>
-<dd>伯特仑·梅钦 【寒鸦】 Bertram Machin [Jackdaw]</dd>
 <dt>狂奔经验</dt>
 <dd>丰富</dd>
 <dt>出生地</dt>
@@ -205,6 +213,10 @@ _档案状态：调查中_
 <br />
 
 <img src="../docs/assets/images/Celka.png" width="500" />
+
+**夏尔卡·托尔卡 Celka Tolka**
+
+**【红宝石松鼠 Ruby Squirrel】**
 
 <dl>
 <dt>姓名/代称</dt>
@@ -253,9 +265,11 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/Adriana.jpg" width="500" />
 
+**阿德瑞娜·密斯托 Adriana Myste**
+
+**【雨云 Raincloud】**
+
 <dl>
-<dt>姓名/代称</dt>
-<dd>阿德瑞娜·密斯托 【雨云】 Adriana Myste [Raincloud]</dd>
 <dt>狂奔经验</dt>
 <dd>精英</dd>
 <dt>出生地</dt>
