@@ -16,7 +16,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/supportingcharacters1.png" width="500" />
+<img src="../docs/assets/images/contacts1.png" width="500" />
 
 **博恩 【金眼】 Bohen [Gold-Eye]**
 
