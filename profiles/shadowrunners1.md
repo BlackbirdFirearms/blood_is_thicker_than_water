@@ -4,7 +4,7 @@ layout: default
 
 ## 狂奔者档案（1）
 
-_Photography by Inominata_
+_Sketches by Inominata_
 
 _Edited by Hamster4_
 
