@@ -34,7 +34,7 @@ _Sketches by Inominata_
 
 <br />
 
-<img src="../docs/assets/images/supportingcharacters1.png" width="750" />
+<img src="../docs/assets/images/contacts1.png" width="750" />
 
 <br />
 
