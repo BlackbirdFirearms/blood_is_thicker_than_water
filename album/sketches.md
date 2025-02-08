@@ -42,6 +42,10 @@ _Sketches by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/l&l.png" width="750" />
+
+<br />
+
 * * *
 
 [返回](../)
