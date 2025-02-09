@@ -38,6 +38,10 @@ _Sketches by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/antagonists.png" width="500" />
+
+<br />
+
 <img src="../docs/assets/images/lilian.png" width="750" />
 
 <br />
