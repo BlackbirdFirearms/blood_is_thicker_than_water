@@ -78,10 +78,6 @@ _Photography by Inominata_
 
 <br />
 
-<img src="../docs/assets/images/bertram&steinar.jpg" width="750" />
-
-<br />
-
 <img src="../docs/assets/images/smile_for_the_camera.jpg" width="750" />
 
 <br />
