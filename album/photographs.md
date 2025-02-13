@@ -78,6 +78,10 @@ _Photography by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/smile_for_the_camera.jpg" width="750" />
+
+<br />
+
 * * *
 
 [返回](../)
