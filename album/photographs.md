@@ -82,6 +82,10 @@ _Photography by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/forever.png" width="750" />
+
+<br />
+
 * * *
 
 [返回](../)
