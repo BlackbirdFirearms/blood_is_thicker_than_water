@@ -38,7 +38,7 @@ _Sketches by Inominata_
 
 <br />
 
-<img src="../docs/assets/images/antagonists.png" width="500" />
+<img src="../docs/assets/images/antagonists.png" width="750" />
 
 <br />
 
