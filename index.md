@@ -15,7 +15,7 @@ layout: default
 
 - [第一部分 甜钢](./main/part1.html)
 - [第二部分 白井](./main/part2.html)
-- 第三部分 孤光 - 文件准备中
+- [第三部分 孤光](./main/part3.html)
 
 <br />
 
