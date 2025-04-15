@@ -94,6 +94,10 @@ _Photography by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/hello_world.jpg" width="750" />
+
+<br />
+
 * * *
 
 [返回](../)
