@@ -39,5 +39,6 @@ layout: default
   - [速写本](./album/sketches.html)
   - [照片墙](./album/photographs.html)
   - [录影集](./album/videoshorts.html)
+  - [侧写练习](./album/profiling.html)
 
 <br />
