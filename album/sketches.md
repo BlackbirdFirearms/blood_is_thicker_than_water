@@ -34,6 +34,10 @@ _Sketches by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/Garnet.png" width="750" />
+
+<br />
+
 <img src="../docs/assets/images/contacts1.png" width="750" />
 
 <br />
