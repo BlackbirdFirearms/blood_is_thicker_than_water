@@ -37,7 +37,8 @@ layout: default
   - [相关人员档案](./profiles/relevant_personnel.html)
 - 影像集
   - [速写本](./album/sketches.html)
-  - [照片墙](./album/photographs.html)
+  - [照片墙（1）](./album/photographs1.html)
+  - [照片墙（2）](./album/photographs2.html)
   - [录影集](./album/videoshorts.html)
   - [侧写练习](./album/profiling.html)
 
