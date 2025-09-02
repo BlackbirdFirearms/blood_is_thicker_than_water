@@ -14,6 +14,10 @@ _Photography by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/cat's_world.png" width="750" />
+
+<br />
+
 * * *
 
 [返回](../)
