@@ -36,7 +36,7 @@ layout: default
   - 狂奔者档案（2） - 文件准备中
   - [相关人员档案](./profiles/relevant_personnel.html)
 - 影像簿
-  - [概念图](./album/comcept_art.html)
+  - [概念图](./album/concept_art.html)
   - [速写本](./album/sketches.html)
   - [照片墙（1）](./album/photographs1.html)
   - [照片墙（2）](./album/photographs2.html)
