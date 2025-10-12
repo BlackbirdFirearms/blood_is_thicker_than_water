@@ -18,6 +18,10 @@ _Photography by Inominata_
 
 <br />
 
+<img src="../docs/assets/images/children_of_the_matrix.png" width="750" />
+
+<br />
+
 * * *
 
 [返回](../)
