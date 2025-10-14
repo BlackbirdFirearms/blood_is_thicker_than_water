@@ -163,7 +163,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Bertram.jpg" width="500" />
+<img src="../docs/assets/images/Bertram_full.png" width="500" />
 
 **伯特仑·梅钦 Bertram Machin**
 
