@@ -165,8 +165,6 @@ _档案状态：调查中_
 
 <img src="../docs/assets/images/Bertram.jpg" width="500" />
 
-<img src="../docs/assets/images/Bertram_full_transparent.png" width="500" />
-
 **伯特仑·梅钦 Bertram Machin**
 
 **【寒鸦 Jackdaw】**
