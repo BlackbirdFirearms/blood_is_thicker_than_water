@@ -65,7 +65,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Steinar.jpg" width="500" />
+<img src="../docs/assets/images/Steinar_full.png" width="500" />
 
 **斯泰纳尔·布雷德斯 Steinar Blades**
 
