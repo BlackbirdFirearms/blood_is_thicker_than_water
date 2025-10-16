@@ -16,7 +16,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Salvia.jpg" width="500" />
+<img src="../docs/assets/images/Salvia.png" width="500" />
 
 **希尔维娅·浩特革 Salvia Hotgo**
 
@@ -65,7 +65,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Steinar_full.png" width="500" />
+<img src="../docs/assets/images/Steinar.png" width="500" />
 
 **斯泰纳尔·布雷德斯 Steinar Blades**
 
@@ -114,7 +114,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Antinoa.jpg" width="500" />
+<img src="../docs/assets/images/Antinoa.png" width="500" />
 
 **安缇诺雅 Antinoa**
 
@@ -163,7 +163,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Bertram_full.png" width="500" />
+<img src="../docs/assets/images/Bertram.png" width="500" />
 
 **伯特仑·梅钦 Bertram Machin**
 
@@ -261,7 +261,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Adriana.jpg" width="500" />
+<img src="../docs/assets/images/Adriana.png" width="500" />
 
 **阿德瑞娜·密斯托 Adriana Myste**
 
@@ -356,6 +356,8 @@ _档案状态：调查中_
 </dl>
 
 <br />
+
+<img src="../docs/assets/images/L'assasymphonie.png" width="500" />
 
 **【杀戮交响曲 L'assasymphonie】**
 
