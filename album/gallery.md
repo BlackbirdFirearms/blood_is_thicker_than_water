@@ -8,7 +8,7 @@ _Photography by Inominata_
 
 * * *
 
-<link rel="stylesheet" href="{{ '../docs/assets/css/style.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 <div class="gallery">
     <img src="../docs/assets/images/Sweetsteel.png" alt="Sweetsteel">
