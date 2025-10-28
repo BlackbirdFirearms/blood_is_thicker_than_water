@@ -38,8 +38,6 @@ layout: default
 - 影像簿
   - [概念图](./album/concept_art.html)
   - [速写本](./album/sketches.html)
-  - [照片墙（1）](./album/photographs1.html)
-  - [照片墙（2）](./album/photographs2.html)
   - [照片墙](./album/gallery.html)
   - [录影集](./album/videoshorts.html)
   - [侧写练习](./album/profiling.html)
