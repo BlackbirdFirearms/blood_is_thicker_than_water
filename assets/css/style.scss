@@ -30,3 +30,38 @@
     column-count: 2;
   }
 }
+
+.profile {
+  display: flex; 
+  align-items: center; /* align height at centre */
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.profile-pic {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  flex-shrink: 0; /* this is supposed to keep the pic from shrinking 'prematurely' - test later how this works under different resolution settings */
+  border-radius: 6px;
+}
+
+.profile-info {
+  flex: 1;
+}
+
+/* response to screen width */
+
+@media (max-width: 1200px) {
+  .profile {
+    gap: 1.25rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+}
