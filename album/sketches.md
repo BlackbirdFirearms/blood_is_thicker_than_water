@@ -10,47 +10,31 @@ _Sketches by Inominata_
 
 <br />
 
-<img src="../docs/assets/images/Salvia.jpg" width="750" />
+<img src="../docs/assets/images/Salvia_sketch.jpg" width="750" />
 
 <br />
 
-<img src="../docs/assets/images/Steinar.jpg" width="750" />
+<img src="../docs/assets/images/Steinar_sketch.jpg" width="750" />
 
 <br />
 
-<img src="../docs/assets/images/Antinoa.jpg" width="750" />
+<img src="../docs/assets/images/Antinoa_sketch.jpg" width="750" />
 
 <br />
 
-<img src="../docs/assets/images/Bertram.jpg" width="750" />
+<img src="../docs/assets/images/Bertram_sketch.jpg" width="750" />
 
 <br />
 
-<img src="../docs/assets/images/Celka.png" width="750" />
+<img src="../docs/assets/images/Celka_sketch.png" width="750" />
 
 <br />
 
-<img src="../docs/assets/images/Adriana.jpg" width="750" />
+<img src="../docs/assets/images/Adriana_sketch.jpg" width="750" />
 
 <br />
 
-<img src="../docs/assets/images/Garnet.png" width="750" />
-
-<br />
-
-<img src="../docs/assets/images/contacts1.png" width="750" />
-
-<br />
-
-<img src="../docs/assets/images/antagonists.png" width="750" />
-
-<br />
-
-<img src="../docs/assets/images/lilian.png" width="750" />
-
-<br />
-
-<img src="../docs/assets/images/l&l.png" width="750" />
+<img src="../docs/assets/images/Garnet_sketch.png" width="750" />
 
 <br />
 
