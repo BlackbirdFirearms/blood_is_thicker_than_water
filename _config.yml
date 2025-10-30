@@ -3,5 +3,3 @@ remote_theme: pages-themes/hacker@v0.2.0
 title: [欢迎回来，Knallquecksilber。]
 description: [最近更新：照片墙]
 show_downloads: false
-github:
-  is_project_page: false
