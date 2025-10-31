@@ -71,48 +71,50 @@ _档案状态：调查中_
     <div class = "profile-info">
       <h3>希尔维娅·浩特革 Salvia Hotgo</h3>
       <h3>【红十字 Red Cross】</h3>
-      <table>
-        <tr>
-          <td>狂奔经验</td>
-          <td>精英</td>
-        </tr>
-        <tr>
-          <td>出生地</td>
-          <td>澳大利亚共和国</td>
-        </tr>
-        <tr>
-          <td>泛形态</td>
-          <td>人类（替换儿）</td>
-        </tr>
-        <tr>
-          <td>年龄</td>
-          <td>23</td>
-        </tr>
-        <tr>
-          <td>性别认同</td>
-          <td>女</td>
-        </tr>
-        <tr>
-          <td>当前状态</td>
-          <td>静默</td>
-        </tr>
-        <tr>
-          <td>肉体素质评测</td>
-          <td>体质-2  敏捷-3  反应-3  力量-1</td>
-        </tr>
-        <tr>
-          <td>精神素质评测</td>
-          <td>意志-3  逻辑-4  直觉-4  魅力-2</td>
-        </tr>
-        <tr>
-          <td>觉醒/显现</td>
-          <td>觉醒者（魔法-3）</td>
-        </tr>
-        <tr>
-          <td>改造与殖装</td>
-          <td>无</td>
-        </tr>
-      </table>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>精英</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>澳大利亚共和国</td>
+  </tr>
+  <tr>
+    <td>泛形态</td>
+    <td>人类（替换儿）</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>女</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-2  敏捷-3  反应-3  力量-1</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-3  逻辑-4  直觉-4  魅力-2</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>觉醒者（魔法-3）</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>无</td>
+  </tr>
+</table>
+</section>   
     </div>
   </div>
 </section>
