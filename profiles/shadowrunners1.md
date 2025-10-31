@@ -16,55 +16,6 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Salvia.png" width="500" />
-
-**希尔维娅·浩特革 Salvia Hotgo**
-
-**【红十字 Red Cross】**
-
-<table>
-  <tr>
-    <td>狂奔经验</td>
-    <td>精英</td>
-  </tr>
-  <tr>
-    <td>出生地</td>
-    <td>澳大利亚共和国</td>
-  </tr>
-  <tr>
-    <td>泛形态</td>
-    <td>人类（替换儿）</td>
-  </tr>
-  <tr>
-    <td>年龄</td>
-    <td>23</td>
-  </tr>
-  <tr>
-    <td>性别认同</td>
-    <td>女</td>
-  </tr>
-  <tr>
-    <td>当前状态</td>
-    <td>静默</td>
-  </tr>
-  <tr>
-    <td>肉体素质评测</td>
-    <td>体质-2  敏捷-3  反应-3  力量-1</td>
-  </tr>
-  <tr>
-    <td>精神素质评测</td>
-    <td>意志-3  逻辑-4  直觉-4  魅力-2</td>
-  </tr>
-  <tr>
-    <td>觉醒/显现</td>
-    <td>觉醒者（魔法-3）</td>
-  </tr>
-  <tr>
-    <td>改造与殖装</td>
-    <td>无</td>
-  </tr>
-</table>
-
 <section class = "character-profile">
   <div class = "profile">
     <img src="../docs/assets/images/Salvia.png" alt = "Salvia" class = "profile-pic">
@@ -136,12 +87,13 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Steinar.png" width="500" />
-
-**斯泰纳尔·布雷德斯 Steinar Blades**
-
-**【木帆船 Wood Sailboat】**
-
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Steinar.png" alt = "Steinar" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>斯泰纳尔·布雷德斯 Steinar Blades</h3>
+      <h3>【木帆船 Wood Sailboat】</h3>
+<section markdown="0">
 <table>
   <tr>
     <td>狂奔经验</td>
@@ -184,6 +136,10 @@ _档案状态：调查中_
     <td>机械义肢-整腿（配件：赛博武器匣）；机械义肢-前臂（配件：内置式稳定装置；植入武装-轻型手枪/钢刺爪/手刃）</td>
   </tr>
 </table>
+</section>   
+    </div>
+  </div>
+</section>
 
 前雇佣兵。所属的小队在一次高危任务中全灭，于濒死之际被希尔维娅救下，跟随她来到了伦敦。已经适应了使用义肢作战。
 
@@ -200,12 +156,13 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Antinoa.png" width="500" />
-
-**安缇诺雅 Antinoa**
-
-**【音爆 Sonic Boom】**
-
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Antinoa.png" alt = "Antinoa" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>安缇诺雅 Antinoa</h3>
+      <h3>【音爆 Sonic Boom】</h3>
+<section markdown="0">
 <table>
   <tr>
     <td>狂奔经验</td>
@@ -248,6 +205,10 @@ _档案状态：调查中_
     <td>中控器；反应增强器</td>
   </tr>
 </table>
+</section>   
+    </div>
+  </div>
+</section>
 
 年轻时曾与希尔维娅追随同一位导师，后因故与那两人分离。捏造了新的名字、在伦敦成长为一名老练的狂奔者后，意料之外地与希尔维娅重逢。
 
@@ -262,12 +223,13 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Bertram.png" width="500" />
-
-**伯特仑·梅钦 Bertram Machin**
-
-**【寒鸦 Jackdaw】**
-
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Bertram.png" alt = "Bertram" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>伯特仑·梅钦 Bertram Machin</h3>
+      <h3>【寒鸦 Jackdaw】</h3>
+<section markdown="0">
 <table>
   <tr>
     <td>狂奔经验</td>
@@ -310,6 +272,10 @@ _档案状态：调查中_
     <td>植入式通讯链与数据接口</td>
   </tr>
 </table>
+</section>   
+    </div>
+  </div>
+</section>
 
 曾是公司员工，从属于技术研发部门。在一起投毒事件中成为唯一的幸存者，销毁过去的身份并向投毒者复仇后成为暗影一员。
 
@@ -326,12 +292,13 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Celka.png" width="500" />
-
-**夏尔卡·托尔卡 Celka Tolka**
-
-**【红宝石松鼠 Ruby Squirrel】**
-
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Celka.png" alt = "Celka" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>夏尔卡·托尔卡 Celka Tolka</h3>
+      <h3>【红宝石松鼠 Ruby Squirrel】</h3>
+<section markdown="0">
 <table>
   <tr>
     <td>狂奔经验</td>
@@ -374,6 +341,10 @@ _档案状态：调查中_
     <td>植入式通讯链与数据接口</td>
   </tr>
 </table>
+</section>   
+    </div>
+  </div>
+</section>
 
 曾是公司员工，从属于人事部门。意识到公司粉饰太平下的真实面目后，出于恐惧离开了曾经的生活。在小队中主要负责交涉与矩阵方面的工作。
 
@@ -390,12 +361,13 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Adriana.png" width="500" />
-
-**阿德瑞娜·密斯托 Adriana Myste**
-
-**【雨云 Raincloud】**
-
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Adriana.png" alt = "Adriana" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>阿德瑞娜·密斯托 Adriana Myste</h3>
+      <h3>【雨云 Raincloud】</h3>
+<section markdown="0">
 <table>
   <tr>
     <td>狂奔经验</td>
@@ -438,6 +410,10 @@ _档案状态：调查中_
     <td>无</td>
   </tr>
 </table>
+</section>   
+    </div>
+  </div>
+</section>
 
 被抛弃后在东伦敦的巷子里长大的流浪儿。秉承着十分朴素且强烈的正义感，希望能够保护东伦敦的居民们。魔法天赋引起过某些人的觊觎。
 
@@ -454,10 +430,12 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Garnet.png" width="500" />
-
-**加尔奈特 Garnet**
-
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Garnet.png" alt = "Garnet" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>加尔奈特 Garnet</h3>
+<section markdown="0">
 <table>
   <tr>
     <td>狂奔经验</td>
@@ -500,6 +478,10 @@ _档案状态：调查中_
     <td>无</td>
   </tr>
 </table>
+</section>   
+    </div>
+  </div>
+</section>
 
 追寻着与失踪导师相关的线索，从西雅图远道而来的年轻魔法学徒。虽能施法却没有高超的魔法天赋，最常用的武器是她的刺剑。
 
@@ -514,10 +496,12 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/L'assasymphonie.png" width="500" />
-
-**【杀戮交响曲 L'assasymphonie】**
-
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/L'assasymphonie.png" alt = "L'assasymphonie" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>【杀戮交响曲 L'assasymphonie】</h3>
+<section markdown="0">
 <table>
   <tr>
     <td>狂奔经验</td>
@@ -548,6 +532,10 @@ _档案状态：调查中_
     <td>意志-4  逻辑-3  直觉-5  魅力-4</td>
   </tr>
 </table>
+</section>   
+    </div>
+  </div>
+</section>
 
 性格如幼童般任性的矩阵居民，对死亡气息浓重的人有着格外强烈的兴趣。
 
