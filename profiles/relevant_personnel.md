@@ -16,7 +16,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/contacts1.png" width="500" />
+<img src="../docs/assets/images/contacts1.png" alt = "contacts1" width="500" />
 
 **博恩 Bohen 【金眼 Gold-Eye】**
 
@@ -143,7 +143,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/antagonists.png" width="500" />
+<img src="../docs/assets/images/team_wyrmblood.png" alt = "team_wyrmblood" width="500" />
 
 **莱维斯塔 Levista （莱塔 Letta）**
 
@@ -270,7 +270,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/lilian.png" width="500" />
+<img src="../docs/assets/images/lilian.png" alt = "lilian" width="500" />
 
 **莉莉安 Lilian**
 
@@ -297,7 +297,7 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/l&l.png" width="500" />
+<img src="../docs/assets/images/l&l.png" alt = "l&l" width="500" />
 
 **兰吉瑞斯 Langereth**
 
