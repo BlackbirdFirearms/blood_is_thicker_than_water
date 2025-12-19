@@ -15,7 +15,7 @@ _Photography by Inominata_
     <img src="../docs/assets/images/bertram&steinar.jpg" alt="bertram&steinar">
     <img src="../docs/assets/images/inner_troubles.jpg" alt="inner_troubles">
     <img src="../docs/assets/images/what's_inside_antinoa's_bag.png" alt="what's_inside_antinoa's_bag">
-    <img src="../docs/assets/images/steinar_settings.png" alt="steinar_settings">
+    <img src="../docs/assets/images/steinar_srau.png" alt="steinar_srau">
     <img src="../docs/assets/images/senior_junior.png" alt="senior_junior">
     <img src="../docs/assets/images/the_day_we_met.png" alt="the_day_we_met" />
     <img src="../docs/assets/images/depth_of_the_matrix.png" alt="depth_of_the_matrix" />
@@ -39,6 +39,8 @@ _Photography by Inominata_
     <img src="../docs/assets/images/watchdog.jpg" alt="watchdog" />
     <img src="../docs/assets/images/cat's_world.png" alt="cat's_world" />
     <img src="../docs/assets/images/children_of_the_matrix.png" alt="children_of_the_matrix" />
+    <img src="../docs/assets/images/phantom_of_the_sixth_age.png" alt="phantom_of_the_sixth_age" />
+    <img src="../docs/assets/images/field_of_daisies.jpg" alt="field_of_daisies" />
 </div>
 
 * * *

@@ -16,37 +16,59 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Salvia.png" width="500" />
-
-**希尔维娅·浩特革 Salvia Hotgo**
-
-**【红十字 Red Cross】**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>精英</dd>
-<dt>出生地</dt>
-<dd>澳大利亚共和国</dd>
-<dt>泛形态</dt>
-<dd>人类（替换儿）</dd>
-<dt>年龄</dt>
-<dd>23</dd>
-<dt>性别认同</dt>
-<dd>女</dd>
-<dt>当前状态</dt>
-<dd>静默</dd>
-</dl>
-
-<dl>
-<dt>肉体素质评测</dt>
-<dd>体质-2  敏捷-3  反应-3  力量-1</dd>
-<dt>精神素质评测</dt>
-<dd>意志-3  逻辑-4  直觉-4  魅力-2</dd>
-<dt>觉醒/显现</dt>
-<dd>觉醒者（魔法-3）</dd>
-<dt>改造与殖装</dt>
-<dd>无</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Salvia.png" alt = "Salvia" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>希尔维娅·浩特革 Salvia Hotgo</h3>
+      <h3>【红十字 Red Cross】</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>精英</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>澳大利亚共和国</td>
+  </tr>
+  <tr>
+    <td>泛形态</td>
+    <td>人类（替换儿）</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>女</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-2  敏捷-3  反应-3  力量-1</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-3  逻辑-4  直觉-4  魅力-2</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>觉醒者（魔法-3）</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>无</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 狂奔者小队队长。心知这是不现实的梦想，却仍然渴望拯救所有人的医师。澳大利亚原住民，父母病故后曾跟随导师在北欧游历。被伦敦的暗影居民们称为“龙小姐”。
 
@@ -65,37 +87,59 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Steinar.png" width="500" />
-
-**斯泰纳尔·布雷德斯 Steinar Blades**
-
-**【木帆船 Wood Sailboat】**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>精英</dd>
-<dt>出生地</dt>
-<dd>巴尔干半岛</dd>
-<dt>泛形态</dt>
-<dd>人类</dd>
-<dt>年龄</dt>
-<dd>28</dd>
-<dt>性别认同</dt>
-<dd>男</dd>
-<dt>当前状态</dt>
-<dd>静默</dd>
-</dl>
-
-<dl>
-<dt>肉体素质评测</dt>
-<dd>体质-5  敏捷-5  反应-5  力量-6</dd>
-<dt>精神素质评测</dt>
-<dd>意志-2  逻辑-2  直觉-4  魅力-3</dd>
-<dt>觉醒/显现</dt>
-<dd>无</dd>
-<dt>改造与殖装</dt>
-<dd>机械义肢-整腿（配件：赛博武器匣）；机械义肢-前臂（配件：内置式稳定装置；植入武装-轻型手枪/钢刺爪/手刃）</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Steinar.png" alt = "Steinar" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>斯泰纳尔·布雷德斯 Steinar Blades</h3>
+      <h3>【木帆船 Wood Sailboat】</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>精英</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>巴尔干半岛</td>
+  </tr>
+  <tr>
+    <td>泛形态</td>
+    <td>人类</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>男</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-5  敏捷-5  反应-5  力量-6</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-2  逻辑-2  直觉-4  魅力-3</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>无</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>机械义肢-整腿（配件：赛博武器匣）；机械义肢-前臂（配件：内置式稳定装置；植入武装-轻型手枪/钢刺爪/手刃）</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 前雇佣兵。所属的小队在一次高危任务中全灭，于濒死之际被希尔维娅救下，跟随她来到了伦敦。已经适应了使用义肢作战。
 
@@ -112,37 +156,59 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Antinoa.png" width="500" />
-
-**安缇诺雅 Antinoa**
-
-**【音爆 Sonic Boom】**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>精英</dd>
-<dt>出生地</dt>
-<dd>加拿大与美利坚合众国</dd>
-<dt>泛形态</dt>
-<dd>精灵</dd>
-<dt>年龄</dt>
-<dd>27</dd>
-<dt>性别认同</dt>
-<dd>女</dd>
-<dt>当前状态</dt>
-<dd>静默</dd>
-</dl>
-
-<dl>
-<dt>肉体素质评测</dt>
-<dd>体质-3  敏捷-5  反应-5  力量-3</dd>
-<dt>精神素质评测</dt>
-<dd>意志-3  逻辑-5  直觉-4  魅力-3</dd>
-<dt>觉醒/显现</dt>
-<dd>无</dd>
-<dt>改造与殖装</dt>
-<dd>中控器；反应增强器</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Antinoa.png" alt = "Antinoa" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>安缇诺雅 Antinoa</h3>
+      <h3>【音爆 Sonic Boom】</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>精英</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>加拿大与美利坚合众国</td>
+  </tr>
+  <tr>
+    <td>泛形态</td>
+    <td>精灵</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>女</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-3  敏捷-5  反应-5  力量-3</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-3  逻辑-5  直觉-4  魅力-3</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>无</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>中控器；反应增强器</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 年轻时曾与希尔维娅追随同一位导师，后因故与那两人分离。捏造了新的名字、在伦敦成长为一名老练的狂奔者后，意料之外地与希尔维娅重逢。
 
@@ -157,37 +223,59 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Bertram.png" width="500" />
-
-**伯特仑·梅钦 Bertram Machin**
-
-**【寒鸦 Jackdaw】**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>丰富</dd>
-<dt>出生地</dt>
-<dd>大不列颠及北爱尔兰联合王国</dd>
-<dt>泛形态</dt>
-<dd>人类</dd>
-<dt>年龄</dt>
-<dd>21</dd>
-<dt>性别认同</dt>
-<dd>男</dd>
-<dt>当前状态</dt>
-<dd>静默</dd>
-</dl>
-
-<dl>
-<dt>肉体素质评测</dt>
-<dd>体质-1  敏捷-3  反应-2  力量-2</dd>
-<dt>精神素质评测</dt>
-<dd>意志-4  逻辑-6  直觉-4  魅力-3</dd>
-<dt>觉醒/显现</dt>
-<dd>超链者（共鸣-3）</dd>
-<dt>改造与殖装</dt>
-<dd>植入式通讯链与数据接口</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Bertram.png" alt = "Bertram" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>伯特仑·梅钦 Bertram Machin</h3>
+      <h3>【寒鸦 Jackdaw】</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>丰富</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>大不列颠及北爱尔兰联合王国</td>
+  </tr>
+  <tr>
+    <td>泛形态</td>
+    <td>人类</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>男</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-1  敏捷-3  反应-2  力量-2</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-4  逻辑-6  直觉-4  魅力-3</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>超链者（共鸣-3）</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>植入式通讯链与数据接口</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 曾是公司员工，从属于技术研发部门。在一起投毒事件中成为唯一的幸存者，销毁过去的身份并向投毒者复仇后成为暗影一员。
 
@@ -204,37 +292,59 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Celka.png" width="500" />
-
-**夏尔卡·托尔卡 Celka Tolka**
-
-**【红宝石松鼠 Ruby Squirrel】**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>丰富</dd>
-<dt>出生地</dt>
-<dd>法兰西共和国</dd>
-<dt>泛形态</dt>
-<dd>矮人（侏儒）</dd>
-<dt>年龄</dt>
-<dd>20</dd>
-<dt>性别认同</dt>
-<dd>男</dd>
-<dt>当前状态</dt>
-<dd>静默</dd>
-</dl>
-
-<dl>
-<dt>肉体素质评测</dt>
-<dd>体质-2  敏捷-4  反应-2  力量-1</dd>
-<dt>精神素质评测</dt>
-<dd>意志-3  逻辑-3  直觉-4  魅力-6</dd>
-<dt>觉醒/显现</dt>
-<dd>无</dd>
-<dt>改造与殖装</dt>
-<dd>植入式通讯链与数据接口</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Celka.png" alt = "Celka" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>夏尔卡·托尔卡 Celka Tolka</h3>
+      <h3>【红宝石松鼠 Ruby Squirrel】</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>丰富</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>法兰西共和国</td>
+  </tr>
+  <tr>
+    <td>泛形态</td>
+    <td>矮人（侏儒）</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>男</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-2  敏捷-4  反应-2  力量-1</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-3  逻辑-3  直觉-4  魅力-6</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>无</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>植入式通讯链与数据接口</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 曾是公司员工，从属于人事部门。意识到公司粉饰太平下的真实面目后，出于恐惧离开了曾经的生活。在小队中主要负责交涉与矩阵方面的工作。
 
@@ -251,37 +361,59 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Adriana.png" width="500" />
-
-**阿德瑞娜·密斯托 Adriana Myste**
-
-**【雨云 Raincloud】**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>精英</dd>
-<dt>出生地</dt>
-<dd>大不列颠及北爱尔兰联合王国</dd>
-<dt>泛形态</dt>
-<dd>精灵</dd>
-<dt>年龄</dt>
-<dd>22</dd>
-<dt>性别认同</dt>
-<dd>女</dd>
-<dt>当前状态</dt>
-<dd>静默</dd>
-</dl>
-
-<dl>
-<dt>肉体素质评测</dt>
-<dd>体质-5  敏捷-3  反应-4  力量-4</dd>
-<dt>精神素质评测</dt>
-<dd>意志-5  逻辑-2  直觉-4  魅力-4</dd>
-<dt>觉醒/显现</dt>
-<dd>觉醒者（魔法-6）</dd>
-<dt>改造与殖装</dt>
-<dd>无</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Adriana.png" alt = "Adriana" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>阿德瑞娜·密斯托 Adriana Myste</h3>
+      <h3>【雨云 Raincloud】</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>精英</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>大不列颠及北爱尔兰联合王国</td>
+  </tr>
+  <tr>
+    <td>泛形态</td>
+    <td>精灵</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>22</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>女</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-5  敏捷-3  反应-4  力量-4</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-5  逻辑-2  直觉-4  魅力-4</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>觉醒者（魔法-6）</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>无</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 被抛弃后在东伦敦的巷子里长大的流浪儿。秉承着十分朴素且强烈的正义感，希望能够保护东伦敦的居民们。魔法天赋引起过某些人的觊觎。
 
@@ -298,35 +430,58 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/Garnet.png" width="500" />
-
-**加尔奈特 Garnet**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>入门</dd>
-<dt>出生地</dt>
-<dd>加拿大与美利坚合众国</dd>
-<dt>种族</dt>
-<dd>变形者</dd>
-<dt>年龄</dt>
-<dd>未知</dd>
-<dt>性别认同</dt>
-<dd>女</dd>
-<dt>当前状态</dt>
-<dd>静默</dd>
-</dl>
-
-<dl>
-<dt>肉体素质评测</dt>
-<dd>体质-4  敏捷-7  反应-7  力量-3</dd>
-<dt>精神素质评测</dt>
-<dd>意志-2  逻辑-2  直觉-7  魅力-4</dd>
-<dt>觉醒/显现</dt>
-<dd>觉醒者（魔法-2）</dd>
-<dt>改造与殖装</dt>
-<dd>无</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/Garnet.png" alt = "Garnet" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>加尔奈特 Garnet</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>入门</td>
+  </tr>
+  <tr>
+    <td>出生地</td>
+    <td>加拿大与美利坚合众国</td>
+  </tr>
+  <tr>
+    <td>种族</td>
+    <td>变形者</td>
+  </tr>
+  <tr>
+    <td>年龄</td>
+    <td>未知</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>女</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>静默</td>
+  </tr>
+  <tr>
+    <td>肉体素质评测</td>
+    <td>体质-4  敏捷-7  反应-7  力量-3</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-2  逻辑-2  直觉-7  魅力-4</td>
+  </tr>
+  <tr>
+    <td>觉醒/显现</td>
+    <td>觉醒者（魔法-2）</td>
+  </tr>
+  <tr>
+    <td>改造与殖装</td>
+    <td>无</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 追寻着与失踪导师相关的线索，从西雅图远道而来的年轻魔法学徒。虽能施法却没有高超的魔法天赋，最常用的武器是她的刺剑。
 
@@ -341,29 +496,46 @@ _档案状态：调查中_
 
 <br />
 
-<img src="../docs/assets/images/L'assasymphonie.png" width="500" />
-
-**【杀戮交响曲 L'assasymphonie】**
-
-<dl>
-<dt>狂奔经验</dt>
-<dd>不适用</dd>
-<dt>诞生地</dt>
-<dd>矩阵网络</dd>
-<dt>种族</dt>
-<dd>自由AI</dd>
-<dt>已运行时间（年）</dt>
-<dd>11</dd>
-<dt>性别认同</dt>
-<dd>无</dd>
-<dt>当前状态</dt>
-<dd>活跃</dd>
-</dl>
-
-<dl>
-<dt>精神素质评测</dt>
-<dd>意志-4  逻辑-3  直觉-5  魅力-4</dd>
-</dl>
+<section class = "character-profile">
+  <div class = "profile">
+    <img src="../docs/assets/images/L'assasymphonie.png" alt = "L'assasymphonie" class = "profile-pic">
+    <div class = "profile-info">
+      <h3>【杀戮交响曲 L'assasymphonie】</h3>
+<section markdown="0">
+<table>
+  <tr>
+    <td>狂奔经验</td>
+    <td>不适用</td>
+  </tr>
+  <tr>
+    <td>诞生地</td>
+    <td>矩阵网络</td>
+  </tr>
+  <tr>
+    <td>种族</td>
+    <td>自由AI</td>
+  </tr>
+  <tr>
+    <td>已运行时间（年）</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>性别认同</td>
+    <td>无</td>
+  </tr>
+  <tr>
+    <td>当前状态</td>
+    <td>活跃</td>
+  </tr>
+  <tr>
+    <td>精神素质评测</td>
+    <td>意志-4  逻辑-3  直觉-5  魅力-4</td>
+  </tr>
+</table>
+</section>   
+    </div>
+  </div>
+</section>
 
 性格如幼童般任性的矩阵居民，对死亡气息浓重的人有着格外强烈的兴趣。
 
@@ -371,7 +543,7 @@ _档案状态：调查中_
 
 <dl>
 <dt>电子幽灵</dt>
-<dd>本质为以真实存在的智慧生物为蓝本，于矩阵中被未知力量创造出的意识。</dd>
+<dd>以真实存在的智慧生物为蓝本，于矩阵中诞生的电子智能。</dd>
 <dt>你好，世界！</dt>
 <dd>面对精神损耗时，能够通过自查排除故障避免崩溃。对于热爱在矩阵上游荡的智能生命而言，可说是十分宝贵的能力。</dd>
 <dt>摄影记忆</dt>

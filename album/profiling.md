@@ -20,7 +20,7 @@ _Statements Recorded by Hamster4_
 
 -开始吧。
 
-<img src="../docs/assets/images/firearm_training.png" width="750" />
+<img src="../docs/assets/images/firearm_training.png" alt = "firearm_training" width="750" />
 
 <br />
 
@@ -30,7 +30,7 @@ _Statements Recorded by Hamster4_
 
 -那孩子……是叫斯泰纳尔来着吧？我记得他。那批小兵里少数几个活到成年的人之一。也难怪是他能活到那岁数——他从那时候起就不太像个小孩，话不多，别的小兵把弹壳黏一起当积木玩的时候他在边上擦刺刀，别人给什么指令他就做。也是他运气好，跟着的人没给他喂过什么药，也没轮上他做人肉炸弹……不过怎么说呢，有点死气沉沉的。不知道他现在怎么样了。
 
-<img src="../docs/assets/images/Steinar_child_soldier.png" width="600" />
+<img src="../docs/assets/images/Steinar_child_soldier.png" alt = "Steinar_child_soldier" width="600" />
 
 <br />
 
