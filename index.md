@@ -26,6 +26,8 @@ layout: default
 - 附录B：舞台阴影之中
   - [冷火](./appendix/b1.html)
   - [故友](./appendix/b2.html)
+- 附录P：████
+  - [未命名](./pioneers/p1.md)
 
 <br />
 
