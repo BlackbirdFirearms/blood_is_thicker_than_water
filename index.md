@@ -28,6 +28,7 @@ layout: default
   - [故友](./appendix/b2.html)
 - 附录P：████
   - [未命名](./pioneers/p1.md)
+  - [记录-存储-复现](./pioneers/p2.md)
 
 <br />
 
