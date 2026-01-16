@@ -10,19 +10,19 @@ _Photography by Inominata_
 
 <br />
 
-<img src="../docs/assets/images/backseating.jpg" alt = "backseating" width="500" />
-
-<br />
-
-<img src="../docs/assets/images/matrix!.jpg" alt = "matrix!" width="500" />
-
-<br />
-
 <img src="../docs/assets/images/no_interlopers.jpg" alt = "no_interlopers" width="500" />
 
 <br />
 
 <img src="../docs/assets/images/coordination.jpg" alt = "coordination" width="500" />
+
+<br />
+
+<img src="../docs/assets/images/backseating.jpg" alt = "backseating" width="500" />
+
+<br />
+
+<img src="../docs/assets/images/matrix!.jpg" alt = "matrix!" width="500" />
 
 <br />
 
