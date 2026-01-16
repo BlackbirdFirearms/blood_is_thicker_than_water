@@ -15,7 +15,7 @@ _Photography by Inominata_
     <img src="../docs/assets/images/bertram&steinar.jpg" alt="bertram&steinar">
     <img src="../docs/assets/images/inner_troubles.jpg" alt="inner_troubles">
     <img src="../docs/assets/images/what's_inside_antinoa's_bag.png" alt="what's_inside_antinoa's_bag">
-    <img src="../docs/assets/images/steinar_srau.png" alt="steinar_srau">
+    <img src="../docs/assets/images/steinar_srau.jpg" alt="steinar_srau">
     <img src="../docs/assets/images/senior_junior.png" alt="senior_junior">
     <img src="../docs/assets/images/the_day_we_met.png" alt="the_day_we_met" />
     <img src="../docs/assets/images/depth_of_the_matrix.png" alt="depth_of_the_matrix" />
