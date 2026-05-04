@@ -41,6 +41,10 @@ _Photography by Inominata_
     <img src="../docs/assets/images/children_of_the_matrix.png" alt="children_of_the_matrix" />
     <img src="../docs/assets/images/phantom_of_the_sixth_age.png" alt="phantom_of_the_sixth_age" />
     <img src="../docs/assets/images/field_of_daisies.jpg" alt="field_of_daisies" />
+    <img src="../docs/assets/images/bloodline.png" alt="bloodline" />
+    <img src="../docs/assets/images/whitewell.jpg" alt="whitewell" />
+    <img src="../docs/assets/images/easter_bunny.png" alt="easter_bunny" />
+    <img src="../docs/assets/images/co-worker.png" alt="co-worker" />
 </div>
 
 * * *
