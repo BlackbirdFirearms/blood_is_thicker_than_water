@@ -20,7 +20,7 @@ _档案状态：调查中_
 
 **博恩 Bohen 【金眼 Gold-Eye】**
 
-<table>
+<table style="max-width: 400px;">
   <tr>
     <td>泛形态</td>
     <td>精灵</td>
