@@ -43,8 +43,10 @@ _Photography by Inominata_
     <img src="../docs/assets/images/field_of_daisies.jpg" alt="field_of_daisies" />
     <img src="../docs/assets/images/bloodline.png" alt="bloodline" />
     <img src="../docs/assets/images/whitewell.jpg" alt="whitewell" />
-    <img src="../docs/assets/images/easter_bunny.png" alt="easter_bunny" />
+    <img src="../docs/assets/images/a_cup_of_poison.png" alt="a_cup_of_poison" />
+    <img src="../docs/assets/images/easter_bunny.png" ala_cup_of_poisont="easter_bunny" />
     <img src="../docs/assets/images/co-worker.png" alt="co-worker" />
+    <img src="../docs/assets/images/valentines.png" alt="valentines" />
 </div>
 
 * * *
