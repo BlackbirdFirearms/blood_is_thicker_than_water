@@ -20,7 +20,7 @@ _档案状态：调查中_
 
 **博恩 Bohen 【金眼 Gold-Eye】**
 
-<table style="max-width: 400px;">
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>精灵</td>
@@ -45,7 +45,7 @@ _档案状态：调查中_
 
 **罗赫利兹 Rochritz 【养蜂人 beekeeper】**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>矮人</td>
@@ -70,7 +70,7 @@ _档案状态：调查中_
 
 **【海蛇 SeaSerpent】**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>人类</td>
@@ -95,7 +95,7 @@ _档案状态：调查中_
 
 **艾弗里 Ivory**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>人类</td>
@@ -120,7 +120,7 @@ _档案状态：调查中_
 
 **伯劳 Shrike**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>人类</td>
@@ -147,7 +147,7 @@ _档案状态：调查中_
 
 **莱维斯塔 Levista （莱塔 Letta）**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>人类</td>
@@ -172,7 +172,7 @@ _档案状态：调查中_
 
 **诺拉 Nora**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>人类</td>
@@ -197,7 +197,7 @@ _档案状态：调查中_
 
 **【霰弹 Shrapnel】**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>人类</td>
@@ -222,7 +222,7 @@ _档案状态：调查中_
 
 **【钢钳 Tongs】**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>矮人</td>
@@ -247,7 +247,7 @@ _档案状态：调查中_
 
 **阿瓦利斯 Avarice**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>巨魔</td>
@@ -274,7 +274,7 @@ _档案状态：调查中_
 
 **莉莉安 Lilian**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>精灵</td>
@@ -301,7 +301,7 @@ _档案状态：调查中_
 
 **兰吉瑞斯 Langereth**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>精灵</td>
@@ -326,7 +326,7 @@ _档案状态：调查中_
 
 **卢塞里欧 Lutherio**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>精灵</td>
@@ -353,7 +353,7 @@ _档案状态：调查中_
 
 **罗斯逊 Rothson**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>兽人</td>
@@ -378,7 +378,7 @@ _档案状态：调查中_
 
 **“张女士” Zhang**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>人类</td>
@@ -403,7 +403,7 @@ _档案状态：调查中_
 
 **德洛丽丝 Dolores 【终点 Final Destination】**
 
-<table>
+<table style="max-width: 300px;">
   <tr>
     <td>泛形态</td>
     <td>侏儒</td>
