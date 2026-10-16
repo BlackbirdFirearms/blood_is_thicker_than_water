@@ -30,6 +30,8 @@ layout: default
 - 附录P：████
   - [未命名](./pioneers/p1.md)
   - [记录-存储-复现](./pioneers/p2.md)
+  - [十字准星](./pioneers/p3.md)
+  - [你所能做的一切](./pioneers/p4.md)
 
 <br />
 
